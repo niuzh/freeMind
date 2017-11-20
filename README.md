@@ -1,7 +1,7 @@
-freeMind
-*crontab -e
-*0 18 * * 1,2,3,4,5 sh /home/niu/Documents/ebook/freeMind/freeMain-update.sh
-*0 8 * * 1,2,3,4,5 sh /home/niu/Documents/ebook/freeMind/freeMain-down.sh
+# freeMind #
+* crontab -e
+* 0 18 * * 1,2,3,4,5 sh /home/niu/Documents/ebook/freeMind/freeMain-update.sh
+* 0 8 * * 1,2,3,4,5 sh /home/niu/Documents/ebook/freeMind/freeMain-down.sh
 minute hour day month dayofweek command
  
     minute - 从0到59的整数 
