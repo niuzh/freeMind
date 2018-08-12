@@ -437,7 +437,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1533518662532" ID="ID_1293169219" MODIFIED="1533522372861" POSITION="right" TEXT="&#x76d1;&#x542c;&#x5668;">
+<node COLOR="#0033ff" CREATED="1533518662532" FOLDED="true" ID="ID_1293169219" MODIFIED="1534044405930" POSITION="right" TEXT="&#x76d1;&#x542c;&#x5668;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1533978138938" ID="ID_1827664316" MODIFIED="1533978148821" TEXT="&#x76d1;&#x542c;&#x5668;&#x63a5;&#x53e3;&#x548c;&#x6ce8;&#x518c;">
@@ -470,18 +470,73 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1533979556373" ID="ID_1283143612" MODIFIED="1533979581721" TEXT="ServletRequest&#x76d1;&#x542c;&#x5668;153">
+<node COLOR="#00b439" CREATED="1533979556373" ID="ID_1283143612" MODIFIED="1534043716843" TEXT="ServletRequest&#x76d1;&#x542c;&#x5668;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1534043754967" ID="ID_582687139" MODIFIED="1534043762560" TEXT="ServletRequestListener">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1534044066446" ID="ID_1643081548" MODIFIED="1534044079882" TEXT="ServletRequestAttributeListener">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1533518681492" FOLDED="true" ID="ID_1259048550" MODIFIED="1534058151224" POSITION="right" TEXT="&#x8fc7;&#x6ee4;&#x5668;">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1534044408231" ID="ID_597624916" MODIFIED="1534044413309" TEXT="Filter API">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1534045616767" ID="ID_1499294379" MODIFIED="1534045624982" TEXT="&#x8fc7;&#x6ee4;&#x5668;&#x7684;&#x914d;&#x7f6e;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1534045854528" ID="ID_268214742" MODIFIED="1534045868998" TEXT="&#x8303;&#x4f8b;1&#xff1a;&#x65e5;&#x5fd7;&#x8fc7;&#x6ee4;&#x5668;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1534053082429" ID="ID_959038013" MODIFIED="1534053093656" TEXT="&#x8303;&#x4f8b;2&#xff1a;&#x56fe;&#x7247;&#x4fdd;&#x62a4;&#x8fc7;&#x6ee4;&#x5668;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1534053401556" ID="ID_1660309834" MODIFIED="1534053410364" TEXT="&#x8303;&#x4f8b;3&#xff1a;&#x4e0b;&#x8f7d;&#x8ba1;&#x6570;&#x8fc7;&#x6ee4;&#x5668;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1534056588918" ID="ID_1640271362" MODIFIED="1534056595674" TEXT="&#x8fc7;&#x6ee4;&#x5668;&#x7684;&#x987a;&#x5e8f;">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1533518681492" ID="ID_1259048550" MODIFIED="1533522372863" POSITION="right" TEXT="&#x8fc7;&#x6ee4;&#x5668;">
-<edge STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="18"/>
-</node>
 <node COLOR="#0033ff" CREATED="1533518705306" ID="ID_1884037062" MODIFIED="1533522372866" POSITION="right" TEXT="&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1534058153808" ID="ID_412998659" MODIFIED="1534058162385" TEXT="Model1 &#x6982;&#x8ff0;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1534058164383" ID="ID_1774762389" MODIFIED="1534058168560" TEXT="Model2 &#x6982;&#x8ff0;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1534058654952" ID="ID_1995263957" MODIFIED="1534062312545" TEXT="&#x57fa;&#x4e8e;Servlet Controller&#x7684;Model2">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1534061312890" ID="ID_429953686" MODIFIED="1534061319331" TEXT="Product&#x7c7b;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1534061561210" ID="ID_1520330576" MODIFIED="1534061567585" TEXT="ProductForm&#x7c7b;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1534061699746" ID="ID_1128238197" MODIFIED="1534061709656" TEXT="ControllerServlet&#x7c7b;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1534062309858" ID="ID_265993713" MODIFIED="1534062310576" TEXT=" &#x57fa;&#x4e8e;Filter Dispatcher&#x7684;Model2">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node COLOR="#0033ff" CREATED="1533518721266" ID="ID_1455408919" MODIFIED="1533522372868" POSITION="right" TEXT="&#x6587;&#x4ef6;&#x4e0a;&#x4f20;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
