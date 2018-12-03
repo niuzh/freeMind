@@ -282,6 +282,15 @@
 <node COLOR="#00b439" CREATED="1543823579604" ID="ID_707725496" MODIFIED="1543823593127" TEXT="4.1 &#x9996;&#x6b21;&#x767b;&#x5165;&#x7cfb;&#x7edf;">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1543827014171" ID="ID_889917326" MODIFIED="1543827033541" TEXT="4.1.1 &#x9996;&#x6b21;&#x767b;&#x5165;CentOS7.x&#x56fe;&#x5f62;&#x63a5;&#x53e3;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1543827328920" ID="ID_1507267546" MODIFIED="1543827343521" TEXT="4.1.2 GNOME&#x7684;&#x64cd;&#x4f5c;&#x4e0e;&#x6ce8;&#x9500;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1543829240622" ID="ID_667344611" MODIFIED="1543829260412" TEXT="4.1.3 X window&#x4e0e;&#x6587;&#x672c;&#x6a21;&#x5f0f;&#x7684;&#x5207;&#x6362;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
 </node>
 </node>
 <node COLOR="#0033ff" CREATED="1540171494109" ID="ID_1023403098" MODIFIED="1540171516631" POSITION="right" TEXT="&#x7b2c;&#x4e94;&#x7ae0; Linux&#x7684;&#x6587;&#x4ef6;&#x6743;&#x9650;&#x4e0e;&#x76ee;&#x5f55;&#x914d;&#x7f6e;">
