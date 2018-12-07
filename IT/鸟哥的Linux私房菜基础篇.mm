@@ -276,7 +276,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1540171463049" ID="ID_1198122547" MODIFIED="1540171491413" POSITION="right" TEXT="&#x7b2c;&#x56db;&#x7ae0; &#x9996;&#x6b21;&#x767b;&#x5165;&#x4e0e;&#x5728;&#x7ebf;&#x6c42;&#x52a9;">
+<node COLOR="#0033ff" CREATED="1540171463049" FOLDED="true" ID="ID_1198122547" MODIFIED="1544078011111" POSITION="right" TEXT="&#x7b2c;&#x56db;&#x7ae0; &#x9996;&#x6b21;&#x767b;&#x5165;&#x4e0e;&#x5728;&#x7ebf;&#x6c42;&#x52a9;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1543823579604" ID="ID_707725496" MODIFIED="1543823593127" TEXT="4.1 &#x9996;&#x6b21;&#x767b;&#x5165;&#x7cfb;&#x7edf;">
@@ -327,10 +327,29 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
+<node COLOR="#00b439" CREATED="1544061798201" ID="ID_1648816791" MODIFIED="1544061827617" TEXT="4.4 &#x8d85;&#x7b80;&#x5355;&#x6587;&#x4e66;&#x7f16;&#x8f91;&#x5668;&#xff1a;nano">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1544064101980" ID="ID_809225307" MODIFIED="1544064112464" TEXT="4.5 &#x6b63;&#x786e;&#x7684;&#x5173;&#x673a;&#x65b9;&#x6cd5;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
 </node>
 <node COLOR="#0033ff" CREATED="1540171494109" ID="ID_1023403098" MODIFIED="1540171516631" POSITION="right" TEXT="&#x7b2c;&#x4e94;&#x7ae0; Linux&#x7684;&#x6587;&#x4ef6;&#x6743;&#x9650;&#x4e0e;&#x76ee;&#x5f55;&#x914d;&#x7f6e;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1544078033771" ID="ID_1866822000" MODIFIED="1544078043739" TEXT="5.1 &#x4f7f;&#x7528;&#x8005;&#x4e0e;&#x7fa4;&#x7ec4;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1544173214876" ID="ID_1637483528" MODIFIED="1544173223408" TEXT="5.2 Linux&#x6587;&#x4ef6;&#x6743;&#x9650;&#x6982;&#x5ff5;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1544173270114" ID="ID_1031904958" MODIFIED="1544173280270" TEXT="5.2.1 Linux&#x6587;&#x4ef6;&#x5c5e;&#x6027;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
 </node>
 <node COLOR="#0033ff" CREATED="1540171544948" ID="ID_525273248" MODIFIED="1540171565915" POSITION="right" TEXT="&#x7b2c;&#x516d;&#x7ae0; Linux&#x6587;&#x4ef6;&#x4e0e;&#x76ee;&#x5f55;&#x7ba1;&#x7406;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
