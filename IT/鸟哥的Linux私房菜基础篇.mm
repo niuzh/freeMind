@@ -625,7 +625,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1540171673147" ID="ID_226504989" MODIFIED="1540171686838" POSITION="right" TEXT="&#x7b2c;&#x4e5d;&#x7ae0; vim&#x7a0b;&#x5e8f;&#x7f16;&#x8f91;&#x5668;">
+<node COLOR="#0033ff" CREATED="1540171673147" FOLDED="true" ID="ID_226504989" MODIFIED="1545807840241" POSITION="right" TEXT="&#x7b2c;&#x4e5d;&#x7ae0; vim&#x7a0b;&#x5e8f;&#x7f16;&#x8f91;&#x5668;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1545723294238" ID="ID_1879914981" MODIFIED="1545723304723" TEXT="9.1 vi&#x4e0e;vim">
@@ -651,10 +651,141 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
+<node COLOR="#00b439" CREATED="1545787123467" ID="ID_1676445068" MODIFIED="1545787154975" TEXT="9.3 vim&#x7684;&#x989d;&#x5916;&#x529f;&#x80fd;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1545787646102" ID="ID_1102653473" MODIFIED="1545787665029" TEXT="9.3.1 &#x533a;&#x5757;&#x9009;&#x62e9;(Visual Block)">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545787992698" ID="ID_887786344" MODIFIED="1545788000481" TEXT="9.3.2 &#x591a;&#x6587;&#x4ef6;&#x7f16;&#x8f91;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545788585186" ID="ID_905372893" MODIFIED="1545788594484" TEXT="9.3.3 &#x591a;&#x7a97;&#x53e3;&#x529f;&#x80fd;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545789878416" ID="ID_1041936486" MODIFIED="1545789905517" TEXT="9.3.4 vim&#x7684;&#x6311;&#x5b57;&#x8865;&#x5168;&#x529f;&#x80fd;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545790109871" ID="ID_626273621" MODIFIED="1545790148981" TEXT="9.3.5 vim&#x73af;&#x5883;&#x8bbe;&#x5b9a;&#x4e0e;&#x8bb0;&#x5f55;&#xff1a;~/.vimrc,~/.viminfo">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545790462431" ID="ID_1619935955" MODIFIED="1545790479031" TEXT="9.3.6 vim&#x5e38;&#x7528;&#x6307;&#x4ee4;&#x793a;&#x610f;&#x56fe;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1545790569183" ID="ID_1829073465" MODIFIED="1545790590227" TEXT="9.4 &#x5176;&#x4ed6;vim&#x4f7f;&#x7528;&#x6ce8;&#x610f;&#x4e8b;&#x9879;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1545790613254" ID="ID_697635187" MODIFIED="1545790626318" TEXT="9.4.1 &#x4e2d;&#x6587;&#x7f16;&#x7801;&#x95ee;&#x9898;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545806275299" ID="ID_70067693" MODIFIED="1545806295602" TEXT="9.4.2 Dos&#x4e0e;Linux&#x7684;&#x65ad;&#x884c;&#x5b57;&#x7b26;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545806566347" ID="ID_1517883620" MODIFIED="1545806585404" TEXT="9.4.3 &#x8bed;&#x7cfb;&#x7f16;&#x7801;&#x8f6c;&#x6362;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
 </node>
 <node COLOR="#0033ff" CREATED="1540171690577" ID="ID_674433077" MODIFIED="1540171711884" POSITION="right" TEXT="&#x7b2c;&#x5341;&#x7ae0; &#x8ba4;&#x8bc6;&#x4e0e;&#x5b66;&#x4e60;BASH">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1545810150816" ID="ID_626604872" MODIFIED="1545810164594" TEXT="10.1 &#x8ba4;&#x8bc6;BASH&#x8fd9;&#x4e2a;Shell">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1545810211266" ID="ID_235472917" MODIFIED="1545810226724" TEXT="10.1.1 &#x786c;&#x4ef6;&#x3001;&#x6838;&#x5fc3;&#x4e0e;Shell">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545813692940" ID="ID_1854130039" MODIFIED="1545813712189" TEXT="10.1.2 &#x4e3a;&#x4f55;&#x8981;&#x5b66;&#x6587;&#x5b57;&#x63a5;&#x53e3;&#x7684;shell">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545814897712" ID="ID_1512796082" MODIFIED="1545814924476" TEXT="10.1.3 &#x7cfb;&#x7edf;&#x7684;&#x5408;&#x6cd5;shell&#x4e0e;/etc/shells&#x529f;&#x80fd;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545815469066" ID="ID_473429969" MODIFIED="1545815483610" TEXT="10.1.4 Bash shell&#x7684;&#x529f;&#x80fd;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545816606176" ID="ID_1865415182" MODIFIED="1545816630442" TEXT="10.1.5 &#x67e5;&#x8be2;&#x6307;&#x4ee4;&#x662f;&#x5426;&#x4e3a;Bash shell&#x7684;&#x5185;&#x5efa;&#x6307;&#x4ee4;:type">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545828031485" ID="ID_862923351" MODIFIED="1545828062891" TEXT="10.1.6 &#x6307;&#x4ee4;&#x7684;&#x4e0b;&#x8fbe;&#x4e0e;&#x5feb;&#x901f;&#x7f16;&#x8f91;&#x6309;&#x94ae;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1545828290469" ID="ID_542615929" MODIFIED="1545828305124" TEXT="10.2 Shell&#x7684;&#x53d8;&#x91cf;&#x529f;&#x80fd;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1545828350814" ID="ID_41839727" MODIFIED="1545828366630" TEXT="10.2.1 &#x4ec0;&#x4e48;&#x662f;&#x53d8;&#x91cf;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545829615121" ID="ID_1565095250" MODIFIED="1545829636444" TEXT="10.2.2 &#x53d8;&#x91cf;&#x7684;&#x53d6;&#x7528;&#x4e0e;&#x8bbe;&#x5b9a;:echo,&#x53d8;&#x91cf;&#x8bbe;&#x5b9a;&#x89c4;&#x5219;,unset">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545830499043" ID="ID_447764088" MODIFIED="1545830514777" TEXT="10.2.3 &#x73af;&#x5883;&#x53d8;&#x91cf;&#x7684;&#x529f;&#x80fd;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545893930115" ID="ID_1012410697" MODIFIED="1545893950096" TEXT="10.2.4 &#x5f71;&#x54cd;&#x663e;&#x793a;&#x7ed3;&#x679c;&#x7684;&#x8bed;&#x7cfb;&#x53d8;&#x91cf;(locale)">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545831287013" ID="ID_312953377" MODIFIED="1545893916474" TEXT="10.2.5 &#x53d8;&#x91cf;&#x7684;&#x6709;&#x6548;&#x8303;&#x56f4;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545894099010" ID="ID_1896994486" MODIFIED="1545894136758" TEXT="10.2.6 &#x53d8;&#x91cf;&#x952e;&#x76d8;&#x8bfb;&#x53d6;&#x3001;&#x6570;&#x7ec4;&#x4e0e;&#x5ba3;&#x544a;:read,array,declare">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545895430566" ID="ID_1905844241" MODIFIED="1545895454857" TEXT="10.2.7 &#x4e0e;&#x6587;&#x4ef6;&#x7cfb;&#x7edf;&#x53ca;&#x7a0b;&#x5e8f;&#x7684;&#x9650;&#x5236;&#x5173;&#x7cfb;:ulimit">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545895897326" ID="ID_1659826028" MODIFIED="1545895937910" TEXT="10.2.8 &#x53d8;&#x91cf;&#x5185;&#x5bb9;&#x7684;&#x5220;&#x9664;&#x3001;&#x53d6;&#x4ee3;&#x4e0e;&#x66ff;&#x6362;(Option)">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1545898823130" ID="ID_289283630" MODIFIED="1545898849518" TEXT="10.3 &#x547d;&#x4ee4;&#x522b;&#x540d;&#x4e0e;&#x5386;&#x53f2;&#x547d;&#x4ee4;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1545900599257" ID="ID_1049960853" MODIFIED="1545901945175" TEXT="10.3.1 &#x547d;&#x4ee4;&#x522b;&#x540d;&#x8bbe;&#x5b9a;&#xff1a;alias,unalias">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545901961051" ID="ID_1809594821" MODIFIED="1545901980997" TEXT="10.3.2 &#x5386;&#x53f2;&#x547d;&#x4ee4;&#xff1a;history">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1545903010803" ID="ID_1859619968" MODIFIED="1545960327307" TEXT="10.4 Bash Shell &#x7684;&#x64cd;&#x4f5c;&#x73af;&#x5883;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1545960331123" ID="ID_800397341" MODIFIED="1545960374271" TEXT="10.4.1 &#x8def;&#x5f84;&#x4e0e;&#x6307;&#x4ee4;&#x641c;&#x7d22;&#x987a;&#x5e8f;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545961621799" ID="ID_1842528294" MODIFIED="1545961667490" TEXT="10.4.2 bash&#x7684;&#x8fdb;&#x7ad9;&#x4e0e;&#x6b22;&#x8fce;&#x8baf;&#x606f;&#xff1a;/etc/issue,/etc/motd">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545961920895" ID="ID_1217971719" MODIFIED="1545961929922" TEXT="10.4.3 bash&#x7684;&#x73af;&#x5883;&#x914d;&#x7f6e;&#x6587;&#x4ef6;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545969604997" ID="ID_109661383" MODIFIED="1545969629856" TEXT="10.4.4 &#x7ec8;&#x7aef;&#x673a;&#x7684;&#x73af;&#x5883;&#x8bbe;&#x5b9a;:stty,set">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545970981600" ID="ID_664244228" MODIFIED="1545971001021" TEXT="10.4.5 &#x901a;&#x914d;&#x7b26;&#x4e0e;&#x7279;&#x6b8a;&#x7b26;&#x53f7;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1545986397642" ID="ID_43418650" MODIFIED="1545986431314" TEXT="10.5 &#x6570;&#x636e;&#x6d41;&#x91cd;&#x5bfc;&#x5411;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1545986433858" ID="ID_222147076" MODIFIED="1545986455917" TEXT="10.5.1 &#x4ec0;&#x4e48;&#x662f;&#x6570;&#x636e;&#x6d41;&#x91cd;&#x5bfc;&#x5411;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1545988221284" ID="ID_460415636" MODIFIED="1545988254418" TEXT="10.5.2 &#x547d;&#x4ee4;&#x6267;&#x884c;&#x7684;&#x5224;&#x65ad;&#x4f9d;&#x636e;:;,&amp;&amp;,||">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1545989988535" ID="ID_190415632" MODIFIED="1545989997662" TEXT="10.6 &#x7ba1;&#x7ebf;&#x547d;&#x4ee4;">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1545990460636" ID="ID_1087446582" MODIFIED="1545990484191" TEXT="10.6.1 &#x64b7;&#x53d6;&#x547d;&#x4ee4;&#xff1a;cut,grep">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
 </node>
 <node COLOR="#0033ff" CREATED="1540171713892" ID="ID_613514632" MODIFIED="1540171753993" POSITION="right" TEXT="&#x7b2c;&#x5341;&#x4e00;&#x7ae0; &#x6b63;&#x89c4;&#x8868;&#x793a;&#x6cd5;&#x4e0e;&#x6587;&#x4ef6;&#x683c;&#x5f0f;&#x5316;&#x5904;&#x7406;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
