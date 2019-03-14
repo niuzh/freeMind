@@ -10,7 +10,7 @@
 * 解压配置 /home/niu/Documents/tool/freemind-bin-max-1.0.1
 * chmod 744 freemind.sh
 * 设置键盘快捷键
-/home/niu/Documents/tool/freemind-bin-max-1.0.1/freemind.sh
+/home/niu/Documents/tool/freemind/freemind.sh
 快捷键 Ctrl+Alt+F
 ## 进入下载项目文件夹
 * cd /home/niu/Documents/ebook
